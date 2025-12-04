@@ -1,0 +1,12 @@
+# Local environment variables
+.env
+
+# Compiled binary
+go-fiber-postgres
+*.exe
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+*.swp
+*~
